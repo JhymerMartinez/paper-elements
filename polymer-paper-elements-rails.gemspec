@@ -1,7 +1,8 @@
 # coding: utf-8
 Gem::Specification.new do |spec|
   spec.name          = "polymer-paper-elements-rails"
-  s.version          = '0.0.1'
+  spec.version       = '0.0.1'
+  spec.authors       = ["Gilmar Quinelato"]
   spec.description   = %q{Polymer paper elements for using in Ruby on Rails application}
   spec.summary       = %q{Polymer paper elements}
   spec.homepage      = "https://github.com/JhymerMartinez/paper-elements"
